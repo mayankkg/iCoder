@@ -1,0 +1,4 @@
+d:/python/django/iCoder/myprojectenv/Scripts/Activate.ps1
+
+-- for install virtual environment --
+pip install -r requirements.txt
